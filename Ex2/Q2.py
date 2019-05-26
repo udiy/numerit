@@ -1,9 +1,8 @@
 """
 
 	Author: Udi Yosovzon
-	Email: udiyosovzon@gmail.com
-	ID: 308063437
 	
+		
 	Description: This python code computes the solution to a specific system of eqations
 				 It then prints the solution to screen.
 	Execution: In cmd, navigate to this file directory, then type: "python Q2.py"

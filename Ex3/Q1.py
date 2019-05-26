@@ -1,9 +1,8 @@
 """
 
 	Author: Udi Yosovzon
-	Email: udiyosovzon@gmail.com
-	ID: 308063437
 	
+		
 	Description: This python code solves a system of linear eqations with three methods:
 					1) Gauss elimanation
 					2) LU decomposition

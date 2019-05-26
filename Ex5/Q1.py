@@ -1,9 +1,8 @@
 """
 
     Author: Udi Yosovzon
-    Email: udiyosovzon@gmail.com
-    ID: 308063437
     
+        
     Description: This python code
                     a) calculates a cubic spiline, then calculates its first and second derivatives, then outputs all these on a plot.
                     b) calculates a cubic parametric spline, the outputs a plot

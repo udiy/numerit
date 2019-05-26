@@ -1,9 +1,8 @@
 """
 
     Author: Udi Yosovzon
-    Email: udiyosovzon@gmail.com
-    ID: 308063437
     
+        
     Description: This python code evaluates a specific integral using the following methods:
     			1) Trapez
     			2) Simpson

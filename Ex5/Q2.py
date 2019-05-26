@@ -1,9 +1,8 @@
 """
 
     Author: Udi Yosovzon
-    Email: udiyosovzon@gmail.com
-    ID: 308063437
     
+        
     Description: This python code caluclates 3 splines to a step function, using 3 different methods:
     			 1) Cubic spline 2) Linear spline 3) Hermite spline
     			 it then outputs these spline into a single plot

@@ -1,9 +1,8 @@
 """
 
 	Author: Udi Yosovzon
-	Email: udiyosovzon@gmail.com
-	ID: 308063437
 	
+		
 	Description: This python code uses two methods of interpolation to evaluate a specific function.
 				 First method is "Direct (Yeshara) method", it involves solving a system of liner eqations to find coefficients for function to evaluate x.
 				 Second method is Lagrange method, it calculates weights for every data point and calculate value at x.

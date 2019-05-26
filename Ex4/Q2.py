@@ -1,9 +1,8 @@
 """
 
 	Author: Udi Yosovzon
-	Email: udiyosovzon@gmail.com
-	ID: 308063437
 	
+		
 	Description: This python code evaluates Lagrange polynomial and plot it.
 				 
 	Execution: In cmd, navigate to this file directory, then type: "python Q2.py". IMPORTANT: this file has to be in the same folder as Q1

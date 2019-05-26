@@ -1,9 +1,8 @@
 """
 
 	Author: Udi Yosovzon
-	Email: udiyosovzon@gmail.com
-	ID: 308063437
 	
+		
 	Description: This python code computes the roots of a polynom using two different methods:
 					1) Newton Raphson
 					2) Synthetic division

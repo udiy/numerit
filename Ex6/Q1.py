@@ -1,9 +1,8 @@
 """
 
     Author: Udi Yosovzon
-    Email: udiyosovzon@gmail.com
-    ID: 308063437
     
+        
     Description: This python code evaluate a specific inegral using Trapez method and Richardson extrapolation method.
     			 It then compares to numpy result
                  

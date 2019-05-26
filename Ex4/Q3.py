@@ -1,9 +1,8 @@
 """
 
     Author: Udi Yosovzon
-    Email: udiyosovzon@gmail.com
-    ID: 308063437
     
+        
     Description: This python code creates a Lagrange polynomial for the function cos(4*pi*x), than compare the results
                  of the interpolation and the function.
                  
